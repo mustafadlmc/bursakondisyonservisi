@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bursa Kondisyon Servisi</title>
+    <title>Bursa Kondisyon Servisi
+    0537 974 06 79</title>
     <style>
         body {
             font-family: Arial, sans-serif;
